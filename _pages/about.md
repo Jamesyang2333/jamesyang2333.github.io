@@ -15,7 +15,7 @@ I graduated from Nanyang Technological University in 2021 with a Bachelor of Eng
 # Publications
 * **Database Generation from Query Workloads with Supervised Autoregressive Models**  
 __Jingyi Yang\*__, Peizhi Wu\*, Gao Cong, Tieying Zhang, Xiao He    
-*ACM Special Interest Group in Management of Data 2022. SIGMOD 2022*
+*ACM Special Interest Group in Management of Data 2022. SIGMOD 2022*  
 [Paper](https://github.com/Jamesyang2333/jamesyang2333.github.io/blob/master/files/SAM_Camera_Ready_v1.pdf)
 * **Cardinality Estimation in DBMS: A Comprehensive Benhcmark Evaluation**  
 Yuxing Han, Ziniu Wu, Peizhi Wu, Rong Zhu, __Jingyi Yang__, Liang Wei Tan, Kai Zeng, Gao Cong, Yanzhao Qin, Andreas Pfadler, Zhengping Qian, Jingren Zhou, Jiangneng Li, Bin Cu   
