@@ -13,11 +13,14 @@ I am a Research Assistant at the School of Computer Science and Engineering,  Na
 I graduated from Nanyang Technological University in 2021 with a Bachelor of Engineering in Computer Science (Honours Highest Distinction).
 
 # Publications
-<ul>
-  <li> Database Generation from Query Workloads with Supervised Autoregressive Models
-    __Jingyi Yang*__, Peizhi Wu*, Gao Cong, Tieying Zhang, Xiao He
-  <li> Cardinality Estimation in DBMS: A Comprehensive Benhcmark Evaluation
-    Yuxing Han, Ziniu Wu, Peizhi Wu, Rong Zhu, __Jingyi Yang__, Liang Wei Tan, Kai Zeng, Gao Cong, Yanzhao Qin, Andreas Pfadler, Zhengping Qian, Jingren Zhou, Jiangneng Li, Bin Cu
-  <li> Task-in-all Domain Adaptation for Semantic Segmentation
-    Tianyi Zhang, __Jingyi Yang__, Chuanxia Zheng, Guosheng Lin, Jianfei Cai, Alex C Kot
-</ul>
+* **Database Generation from Query Workloads with Supervised Autoregressive Models**  
+__Jingyi Yang*__, Peizhi Wu*, Gao Cong, Tieying Zhang, Xiao He    
+*ACM Special Interest Group in Management of Data 2022. SIGMOD 2022*
+* **Cardinality Estimation in DBMS: A Comprehensive Benhcmark Evaluation**  
+Yuxing Han, Ziniu Wu, Peizhi Wu, Rong Zhu, __Jingyi Yang__, Liang Wei Tan, Kai Zeng, Gao Cong, Yanzhao Qin, Andreas Pfadler, Zhengping Qian, Jingren Zhou, Jiangneng Li, Bin Cu   
+*Proceeding of the VLDB Volume 15. VLDB 2022*  
+[Paper](https://arxiv.org/pdf/2109.05877.pdf)
+* **Task-in-all Domain Adaptation for Semantic Segmentation**  
+Tianyi Zhang, __Jingyi Yang__, Chuanxia Zheng, Guosheng Lin, Jianfei Cai, Alex C. Kot  
+*2019 IEEE International Conference on Visual Communication and Imange Processing. VCIP 2019*  
+[Paper](https://ieeexplore.ieee.org/document/8965736)
