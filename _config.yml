@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James Yang Jingyi's Homepage"
+title                    : "James Yang Jingyi"
 title_separator          : "-"
 name                     : &name "James Yang Jingyi"
 description              : &description "This is the homepage of James Yang Jingyi. James is a researcher on Machine Learning and Databases."
