@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Computer Science and Engineering,  Nanyang Technological University, supervised by [Prof Cong Gao](https://personal.ntu.edu.sg/gaocong/). My research interests mainly lie in the field of machine learning for databases, where we study the application of machine learning techniques into various problems in databases, like indexing, query optimization, and data generation.
+I am a PhD student at the School of Computer Science and Engineering,  Nanyang Technological University, supervised by [Prof Cong Gao](https://personal.ntu.edu.sg/gaocong/). My research interests mainly lie in the field of machine learning and databases.
 
 I graduated from Nanyang Technological University in 2021 with a Bachelor of Engineering in Computer Science (Honours Highest Distinction) and a minor in Mathematics.
 
 # Publications
+* **PLATON: Top-down R-tree Packing with Learned Partition Policy**  
+__Jingyi Yang__, Gao Cong    
+*ACM Special Interest Group in Management of Data 2024. SIGMOD 2024*  
+[Paper](https://jamesyang2333.github.io/files/PLATON_camera_ready.pdf)
 * **Database Generation from Query Workloads with Supervised Autoregressive Models**  
 __Jingyi Yang\*__, Peizhi Wu\*, Gao Cong, Tieying Zhang, Xiao He    
 *ACM Special Interest Group in Management of Data 2022. SIGMOD 2022*  
