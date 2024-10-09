@@ -13,6 +13,10 @@ I am a PhD student at the School of Computer Science and Engineering,  Nanyang T
 I graduated from Nanyang Technological University in 2021 with a Bachelor of Engineering in Computer Science (Honours Highest Distinction) and a minor in Mathematics.
 
 # Publications
+* **Machine Learning for Databases: Foundations, Paradigms, and Open problems**  
+Gao Cong, __Jingyi Yang__, Yue Zhao  
+*ACM Special Interest Group in Management of Data 2024 Tutorial. SIGMOD 2024*  
+[Paper](https://dl.acm.org/doi/10.1145/3626246.3654686)
 * **PLATON: Top-down R-tree Packing with Learned Partition Policy**  
 __Jingyi Yang__, Gao Cong    
 *ACM Special Interest Group in Management of Data 2024. SIGMOD 2024*  
