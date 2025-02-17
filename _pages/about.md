@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Computer Science and Engineering,  Nanyang Technological University, supervised by [Prof Cong Gao](https://personal.ntu.edu.sg/gaocong/). My research interests mainly lie in the field of machine learning and databases.
+I am a PhD student at the School of Computer Science and Engineering,  Nanyang Technological University, supervised by [Prof Cong Gao](https://personal.ntu.edu.sg/gaocong/). My research interests mainly lie in the field of AI and databases.
 
 I graduated from Nanyang Technological University in 2021 with a Bachelor of Engineering in Computer Science (Honours Highest Distinction) and a minor in Mathematics.
 
 # Publications
+* **NEXT: A New Secondary Index Framework for LSM-based Data Storage**  
+Jiachen Shi, __Jingyi Yang__, Gao Cong, Xiaoli Li  
+*ACM Special Interest Group in Management of Data 2025. SIGMOD 2025*  
+* **BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data**  
+Tu Gu, Kaiyu Feng, __Jingyi Yang__, Gao Cong, Cheng Long, Rui Zhang  
+*ACM Special Interest Group in Management of Data 2025. SIGMOD 2025*  
 * **Machine Learning for Databases: Foundations, Paradigms, and Open problems**  
 Gao Cong, __Jingyi Yang__, Yue Zhao  
 *ACM Special Interest Group in Management of Data 2024 Tutorial. SIGMOD 2024*  
