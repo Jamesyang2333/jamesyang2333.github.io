@@ -12,6 +12,8 @@ I am a PhD student at the School of Computer Science and Engineering,  Nanyang T
 
 I graduated from Nanyang Technological University in 2021 with a Bachelor of Engineering in Computer Science (Honours Highest Distinction) and a minor in Mathematics.
 
+***I'm maintaining a repository of awesome resources on [AI-powered data processing systems](https://github.com/Jamesyang2333/awesome-ai-data-system/blob/main/README.md), check it out [here](https://github.com/Jamesyang2333/awesome-ai-data-system/blob/main/README.md)!***
+
 # Publications
 * **NEXT: A New Secondary Index Framework for LSM-based Data Storage**  
 Jiachen Shi, __Jingyi Yang__, Gao Cong, Xiaoli Li  
