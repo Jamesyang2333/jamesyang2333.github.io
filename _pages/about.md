@@ -15,7 +15,7 @@ I graduated from Nanyang Technological University in 2021 with a Bachelor of Eng
 ***I'm maintaining a repository of awesome resources on [AI-powered semantic data systems](https://github.com/Jamesyang2333/awesome-ai-data-system/blob/main/README.md), check it out [here](https://github.com/Jamesyang2333/awesome-ai-data-system/blob/main/README.md)!***
 
 # Projects & Publications
-#### Real-Time Data System for AI-driven Query Processing on Multimodal Data
+### Real-Time Data System for AI-driven Query Processing on Multimodal Data
 * **ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities** (Open Source Release Soon!)  
 __Jingyi Yang__, Songsong Mo, Jiachen Shi, Zihao Yu, Kunhao Shi, Xuchen Ding, Gao Cong  
 *Under Submission*
@@ -24,7 +24,7 @@ Jiachen Shi, __Jingyi Yang__, Gao Cong, Xiaoli Li
 *ACM Special Interest Group in Management of Data 2025. SIGMOD 2025*  
 [Paper](https://dl.acm.org/doi/10.1145/3725330)
 
-#### Machine Learning-enhanced Database Indexes
+### Machine Learning-enhanced Database Indexes
 * **BT-Tree: A Reinforcement Learning Based Index for Big Trajectory Data**  
 Tu Gu, Kaiyu Feng, __Jingyi Yang__, Gao Cong, Cheng Long, Rui Zhang  
 *ACM Special Interest Group in Management of Data 2025. SIGMOD 2025*  
@@ -34,7 +34,7 @@ __Jingyi Yang__, Gao Cong
 *ACM Special Interest Group in Management of Data 2024. SIGMOD 2024*  
 [Paper](https://jamesyang2333.github.io/files/PLATON_camera_ready.pdf) | [Code](https://github.com/Jamesyang2333/PLATON)
 
-#### Machine learning for Data Generation and Cardinality Estimation
+### Machine learning for Data Generation and Cardinality Estimation
 * **Database Generation from Query Workloads with Supervised Autoregressive Models**  
 __Jingyi Yang\*__, Peizhi Wu\*, Gao Cong, Tieying Zhang, Xiao He    
 *ACM Special Interest Group in Management of Data 2022. SIGMOD 2022*  
@@ -44,7 +44,7 @@ Yuxing Han, Ziniu Wu, Peizhi Wu, Rong Zhu, __Jingyi Yang__, Liang Wei Tan, Kai Z
 *Proceeding of the VLDB Volume 15. VLDB 2022*  
 [Paper](https://arxiv.org/pdf/2109.05877.pdf)
 
-#### Tutorial on Machine Learning for Databases
+### Tutorial on Machine Learning for Databases
 * **Machine Learning for Databases: Foundations, Paradigms, and Open problems**  
 Gao Cong, __Jingyi Yang__, Yue Zhao  
 *ACM Special Interest Group in Management of Data 2024 Tutorial. SIGMOD 2024*  
