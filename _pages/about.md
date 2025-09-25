@@ -12,13 +12,15 @@ I am a PhD student at the School of Computer Science and Engineering,  Nanyang T
 
 I graduated from Nanyang Technological University in 2021 with a Bachelor of Engineering in Computer Science (Honours Highest Distinction) and a minor in Mathematics.
 
-***I'm maintaining a repository of awesome resources on [AI-powered semantic data systems](https://github.com/Jamesyang2333/awesome-ai-data-system/blob/main/README.md), check it out [here](https://github.com/Jamesyang2333/awesome-ai-data-system/blob/main/README.md)!***
+# 🎉 News
+- [2025-09] 🔥 We have open sourced ARCADE, a real-time system for **hybrid**, **continuous** and **semantic** query processing on multimodal data, check it out [here](https://github.com/Jamesyang2333/ARCADE)!
+- [2025-05] 🔥 I'm maintaining a repository of awesome resources on [AI-powered semantic data systems](https://github.com/Jamesyang2333/awesome-ai-data-system/blob/main/README.md), check it out [here](https://github.com/Jamesyang2333/awesome-ai-data-system/blob/main/README.md)!
 
 # Projects & Publications
 ### Real-Time Data System for AI-driven Query Processing on Multimodal Data
-* **ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities** (Open Source Release Soon!)  
+* **ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities**
 __Jingyi Yang__, Songsong Mo, Jiachen Shi, Zihao Yu, Kunhao Shi, Xuchen Ding, Gao Cong  
-*Under Submission*
+[Paper](https://arxiv.org/abs/2509.19757) | [Code](https://github.com/Jamesyang2333/ARCADE)
 * **NEXT: A New Secondary Index Framework for LSM-based Data Storage**  
 Jiachen Shi, __Jingyi Yang__, Gao Cong, Xiaoli Li  
 *ACM Special Interest Group in Management of Data 2025. SIGMOD 2025*  
